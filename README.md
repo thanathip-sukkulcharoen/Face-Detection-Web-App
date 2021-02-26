@@ -7,8 +7,6 @@ This is a front-end side of Face Detection Web Application. The back-end side of
 * [Demo](#demo)
 * [Features](#features)
 * [Prerequisite library](#prerequisite-library)
-* [Installation](#installation)
-* [Note](#note)
 ## Demo 
 Live demo here --> [Demo](https://smart-brain-thanathip.herokuapp.com/)
 
@@ -21,9 +19,3 @@ If you have **slow experience**, please wait because on the free tier, heroku wi
 * [React](https://reactjs.org/) version 17.0.1
 * [Tachyons](https://tachyons.io/) version 4.12.0
 * [Clarifai](https://www.clarifai.com/) version 2.9.1
-
-## Installation
-Follow the instructions below
-
-
-## Note 
